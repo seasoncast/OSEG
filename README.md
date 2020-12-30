@@ -15,7 +15,7 @@ Standard Format:
    "graphics":[
       {
          "title":"Main Graphic",
-         "objects":[
+         "components":[
             {
                "type":"box",
                "x":10,
