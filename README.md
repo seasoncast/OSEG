@@ -29,7 +29,7 @@ Standard Format:
    ]
 }
 ```
-x, y, width, height values are based on a percentage of the screen full size. colors can be a hex or dynamic variable.
+x, y, width, height values are based on a percentage of the screen full size. Colors & text can be a hex or dynamic variable.
 
 ## Note
 The tool & standard are planned to be used in 2021 for the live streaming platform SeasonCast (seasoncast.com)
