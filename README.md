@@ -11,7 +11,7 @@ OSEG contains a package and individual graphics within the package.
 Standard Format:
 ```
 {
-   "title":"Test PCG",
+   "title":"Example Package",
    "graphics":[
       {
          "title":"Main Graphic",
