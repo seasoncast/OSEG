@@ -3,7 +3,7 @@
 ## Purpose
 1. To provide a easy tool to create dynamic graphic package for live events & broadcast productions of any size.
 2. To provide a standard format for dynamic graphics.
-3. To provide a single file for all the hot swapable graphics.
+3. To provide a single file for all the hot swapable graphics needed in a single event.
 
 ## Defination
 OSEG contains a package and individual graphics within the package. 
