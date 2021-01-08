@@ -6,7 +6,7 @@
 3. To provide a single file for all the hot swapable graphics needed in a single event.
 
 ## Defination
-OSEG contains a package and individual graphics within the package. 
+OSEG contains a package and individual graphics within the package. There is also a runtime javascrpt script to pull data from any source that runs on a vm.
 
 Standard Format:
 ```
